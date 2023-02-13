@@ -1,0 +1,1121 @@
+{
+  "RecordSetData": {
+    "Data": {
+      "Fields": {
+        "FieldArray": {
+          "Field": [
+            {
+              "Name": "OBJECTID",
+              "Type": "esriFieldTypeOID",
+              "IsNullable": false,
+              "Length": 4,
+              "Precision": 0,
+              "Scale": 0,
+              "Required": true,
+              "Editable": false,
+              "AliasName": "FID",
+              "ModelName": "OBJECTID"
+            },
+            {
+              "Name": "Shape",
+              "Type": "esriFieldTypeGeometry",
+              "IsNullable": true,
+              "Length": 0,
+              "Precision": 0,
+              "Scale": 0,
+              "Required": true,
+              "GeometryDef": {
+                "AvgNumPoints": 0,
+                "GeometryType": "esriGeometryPoint",
+                "HasM": true,
+                "HasZ": true,
+                "SpatialReference": {
+                  "WKT": "GEOGCS[&quot;GCS_WGS_1984&quot;,DATUM[&quot;D_WGS_1984&quot;,SPHEROID[&quot;WGS_1984&quot;,6378137.0,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433],AUTHORITY[&quot;EPSG&quot;,4326]]",
+                  "XOrigin": -400,
+                  "YOrigin": -400,
+                  "XYScale": 1111948722.222222,
+                  "ZOrigin": -323.018374,
+                  "ZScale": 10000,
+                  "MOrigin": -100000,
+                  "MScale": 10000,
+                  "XYTolerance": 8.983152841195215e-9,
+                  "ZTolerance": 0.001,
+                  "MTolerance": 0.001,
+                  "HighPrecision": true,
+                  "LeftLongitude": -180,
+                  "WKID": 4326,
+                  "LatestWKID": 4326
+                },
+                "GridSize0": 0.005718803251226583
+              },
+              "ModelName": "Shape"
+            },
+            {
+              "Name": "Id",
+              "Type": "esriFieldTypeInteger",
+              "IsNullable": true,
+              "Length": 4,
+              "Precision": 0,
+              "Scale": 0,
+              "AliasName": "Id",
+              "ModelName": "Id"
+            },
+            {
+              "Name": "Name",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 254,
+              "Precision": 0,
+              "Scale": 0,
+              "AliasName": "Name",
+              "ModelName": "Name"
+            },
+            {
+              "Name": "Elevation",
+              "Type": "esriFieldTypeDouble",
+              "IsNullable": true,
+              "Length": 8,
+              "Precision": 0,
+              "Scale": 0,
+              "AliasName": "Elevation",
+              "ModelName": "Elevation"
+            },
+            {
+              "Name": "Kecamatan",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "AliasName": "Kecamatan",
+              "ModelName": "Kecamatan"
+            },
+            {
+              "Name": "Kondisi",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "AliasName": "Kondisi",
+              "ModelName": "Kondisi"
+            },
+            {
+              "Name": "Provinsi",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "ModelName": "Provinsi"
+            },
+            {
+              "Name": "Kab_Kota",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "ModelName": "Kab_Kota"
+            },
+            {
+              "Name": "Tahun_Data",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "ModelName": "Tahun_Data"
+            },
+            {
+              "Name": "Tingkat_Prioritas",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "ModelName": "Tingkat_Prioritas"
+            },
+            {
+              "Name": "SOLUSI",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "ModelName": "SOLUSI"
+            },
+            {
+              "Name": "Penyebab_Genangan",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "ModelName": "Penyebab_Genangan"
+            },
+            {
+              "Name": "Tahun_Penanganan",
+              "Type": "esriFieldTypeString",
+              "IsNullable": true,
+              "Length": 50,
+              "Precision": 0,
+              "Scale": 0,
+              "ModelName": "Tahun_Penanganan"
+            }
+          ]
+        }
+      },
+      "Records": {
+        "Record": [
+          {
+            "Values": {
+              "Value": [
+                1,
+                {
+                  "Bytes": "CwAAABTFC8EAGVlAAADfuQUT3r9CI9i4PqGHQP///////+//"
+                },
+                0,
+                "Jl. Rohana Kudus",
+                756.155579,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan samapah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                2,
+                {
+                  "Bytes": "CwAAAIzhCaTFGFlAAKTUo+IA3r92o4/5wMmGQP///////+//"
+                },
+                0,
+                "Jl. Rasuna Said",
+                729.219177,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Membuat drainase baru",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                3,
+                {
+                  "Bytes": "CwAAAAQs1hLWGFlAADz/A1H23b8YesTo+eKGQP///////+//"
+                },
+                0,
+                "Jl. Rasuna Said",
+                732.372009,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Membuat drainase baru",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                4,
+                {
+                  "Bytes": "CwAAAKiMc2bzGFlAAEy28R/u3b+WKHtLeS2HQP///////+//"
+                },
+                0,
+                "Jl. Rasuna Said",
+                741.684204,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Membuat drainase baru",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                5,
+                {
+                  "Bytes": "CwAAAPAmkh8NGVlAADQNXOPe3b80GCMSxTqHQP///////+//"
+                },
+                0,
+                "Jl. Rasuna Said",
+                743.346191,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Membuat drainase baru",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                6,
+                {
+                  "Bytes": "CwAAANTm29MOGVlAAJTuGQfQ3b8c8s8MonKHQP///////+//"
+                },
+                0,
+                "Kp. Teleng",
+                750.329163,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan samapah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                7,
+                {
+                  "Bytes": "CwAAANSsb4AKGVlAANhM+ObG3b+g/x68tj+HQP///////+//"
+                },
+                0,
+                "Jl. Kp Teleng - Kp Jawa",
+                743.964233,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, jaringan sampah, perbesar dimensi",
+                "Lokasi rendah, sendimen tinggi, banyaknya sampah",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                8,
+                {
+                  "Bytes": "CwAAAAhgAmcoGVlAAPAPokbM3b9WFRqIJZaHQP///////+//"
+                },
+                0,
+                "Jl. Rasuna Said",
+                754.768372,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Membuat drainase baru",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                9,
+                {
+                  "Bytes": "CwAAAOClrb9fGVlAAEx0lqjf3b9UWRR2kZ+HQP///////+//"
+                },
+                0,
+                "Jl. Rasuna Said",
+                755.945984,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Membuat drainase baru",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                10,
+                {
+                  "Bytes": "CwAAAJToLQbyGllAAJDl6c9F3r/+uWjIuMiGQP///////+//"
+                },
+                0,
+                "Jl. A. Yani",
+                729.09021,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, jaringan sampah, perbaiki kontruksi",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                11,
+                {
+                  "Bytes": "CwAAADwg5uyAGllAABipeQGE3r/UodPzrpuGQP///////+//"
+                },
+                0,
+                "Jl. Syech M. Djamil Jaho",
+                723.460388,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, Jaringan sampah dan perbesar dimensi",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                12,
+                {
+                  "Bytes": "CwAAAMQvyFT6GllAAJTNv9/23b/Sw9DqpIeHQP///////+//"
+                },
+                0,
+                "Jl. Haji Sumanik",
+                752.955566,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "perbesar dimensi, jringan sampah, prbaiki kntruksi",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                13,
+                {
+                  "Bytes": "CwAAAMSq10uoGllAAFCJD97k3b/Ifat1oiaIQP///////+//"
+                },
+                0,
+                "Jl. Haji Sumanik",
+                772.829285,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, jaringan sampah, ganti dmnsi polongan",
+                "Polongan Kecil, adanya gabungan dengan irigasi",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                14,
+                {
+                  "Bytes": "CwAAAGQvatRfG1lAAAwKSmmn3b9enznrkxCJQP///////+//"
+                },
+                0,
+                "Jl. Ganting",
+                802.072266,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Polongan diganti dengan Box Culver dan diperbesar",
+                "Dimensi polongan kecil tidak tertampung debit air",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                15,
+                {
+                  "Bytes": "CwAAACyPdaTdG1lAADgR6jMt3r9kIM8un6aGQP///////+//"
+                },
+                0,
+                "Batas Kota",
+                724.827759,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Dimensi saluran diperbesar",
+                "Dimensi saluran kecil tidak tertampung debit air",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                16,
+                {
+                  "Bytes": "CwAAAAQp3vM1G1lAAEjoFXhE3r+8e4Dui5iGQP///////+//"
+                },
+                0,
+                "Jl. Syech Ibrahim Musa",
+                723.068298,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Perdalam dimensi saluran",
+                "Posisi drainase diatas jalan",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                17,
+                {
+                  "Bytes": "CwAAAEzF0x1TGllAADiiaVD63b9EveDT3AuIQP///////+//"
+                },
+                0,
+                "Jl. A. Yani",
+                769.482788,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, jaringan sampah, perbaiki kontruksi",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                18,
+                {
+                  "Bytes": "CwAAAGxl9tjQGVlAAFCPU+v83b/uYS8UcCGIQP///////+//"
+                },
+                0,
+                "BALAI2 DPN",
+                772.179688,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi dan memebuat jaringan sampah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                19,
+                {
+                  "Bytes": "CwAAAAjL+/JXGFlAABwAAF3f3b9WFRqIJXmGQP///////+//"
+                },
+                0,
+                "BMKG",
+                719.143311,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Pembuatan drainase dan trotoar baru, dimensi sama",
+                "Air meluap keluar drainase jika hujan lebat.",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                20,
+                {
+                  "Bytes": "CwAAADDKI1q4GVlAAMSrUc7B3b+YwoNmF1iIQP///////+//"
+                },
+                0,
+                "DPN JHAD",
+                779.011475,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi dan adanya pembagian aliran",
+                "Dimensi saluran tidak mencukupi mnmpung debit air",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                21,
+                {
+                  "Bytes": "CwAAAHScyyx6GVlAAFT2BV9f3b8QzqeOleCIQP///////+//"
+                },
+                0,
+                "DPN MAIMUN",
+                796.073059,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Dimensi saluran diperbesar",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                22,
+                {
+                  "Bytes": "CwAAAOSXVS13GVlAAMh3nBpo3b++84sSNOGIQP///////+//"
+                },
+                0,
+                "DPN TWLB",
+                796.150452,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, jaringan sampah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                23,
+                {
+                  "Bytes": "CwAAAMgpngLRGllAAJDyc+FA3r9w1XWoZteGQP///////+//"
+                },
+                0,
+                "DPNMNS",
+                730.925171,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, jaringan sampah, perbesar dimensi",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                24,
+                {
+                  "Bytes": "CwAAABxpAAVRGFlAANyk3T7j3b+GjEepxEuGQP///////+//"
+                },
+                0,
+                "MIFAN1",
+                713.471008,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Pembuatan drainase dan trotoar baru, dimensi sama",
+                "Air meluap keluar drainase jika hujan lebat.",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                25,
+                {
+                  "Bytes": "CwAAAEBo+AM6GllAAFB4JPkt3r+YoIZvISyHQP///////+//"
+                },
+                0,
+                "SP MSJD ISLAMIC CENTER",
+                741.516357,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan sampah",
+                "Banyaknya sisa bangunan dlm saluran",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                26,
+                {
+                  "Bytes": "CwAAAFTCezqtGVlAAITkk/253b/+l2vRQkeIQP///////+//"
+                },
+                0,
+                "OJEK",
+                776.907593,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran hingga menyatu kehulu",
+                "Drainase tersumbat dan buntu",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                27,
+                {
+                  "Bytes": "CwAAAECex1KyGVlAAPQSXgjH3b8cYVERZyuIQP///////+//"
+                },
+                0,
+                "PASR BARU 2",
+                773.425354,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan sampah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                28,
+                {
+                  "Bytes": "CwAAADBOXI+lGVlAAJiX94nJ3b/kRpG1xk6IQP///////+//"
+                },
+                0,
+                "PSR BARU",
+                777.847046,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan sampah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                29,
+                {
+                  "Bytes": "CwAAADAnvlq0GVlAADQORB+73b8kDW5rS1SIQP///////+//"
+                },
+                0,
+                "RT 5BALAI",
+                778.536804,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan sampah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                30,
+                {
+                  "Bytes": "CwAAAHAIdpPDGVlAAMjhTZrM3b9+T6xTpW6IQP///////+//"
+                },
+                0,
+                "RT 9BALAI2",
+                781.830688,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi dan dimensi saluran diperbesar",
+                "Dimensi saluran tidak mencukupi mnmpung debit air",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                31,
+                {
+                  "Bytes": "CwAAALiV4cu1GVlAAIirP04J3b8sl43OOYiJQP///////+//"
+                },
+                0,
+                "RT1 BUSUR",
+                817.028259,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Pembuatan drainase",
+                "Belum adanya drainase",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                32,
+                {
+                  "Bytes": "CwAAABBngovdGVlAAJAt4isQ3r/iXwSNWeyHQP///////+//"
+                },
+                0,
+                "RT1 KP",
+                765.543762,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan sampah",
+                "Dimensi saluran kecil dan tertutup",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                33,
+                {
+                  "Bytes": "CwAAAAToZ/nzGFlAABxFVrKd3b+q+L8jaqiHQP///////+//"
+                },
+                0,
+                "RT1 SILBA PIR",
+                757.051819,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Pembuatan drainase dan trotoar baru, dimensi sama",
+                "Air meluap keluar drainase jika hujan lebat.",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                34,
+                {
+                  "Bytes": "CwAAAFwTqNtnGVlAALQbMpwy3b/04sRX+/eHQP///////+//"
+                },
+                0,
+                "RT12 PAUS",
+                766.997742,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, Jaringan smpah, perbesar dimensi",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                35,
+                {
+                  "Bytes": "CwAAADAiYol4GVlAAGwVYoOE3b+86gHz0KyIQP///////+//"
+                },
+                0,
+                "RT14 PAUS",
+                789.602051,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi  dan membuat  Jaringan smpah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                36,
+                {
+                  "Bytes": "CwAAABRJFI52GVlAANzTqbOT3b9ORwA3S3+IQP///////+//"
+                },
+                0,
+                "RT15 PAUS",
+                783.911682,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi  dan membuat  Jaringan smpah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                37,
+                {
+                  "Bytes": "CwAAACjpeZP7GVlAADh6DE9Z3r8gt18+mZCHQP///////+//"
+                },
+                0,
+                "RT19 KOTO PJG",
+                754.074829,
+                "Padang Panjang Timur",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan membuat jaringan sampah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                38,
+                {
+                  "Bytes": "CwAAACCXu874F1lAADRCVrge3r8LmpZYWWOFQP///////+//"
+                },
+                0,
+                "RT19 SILBA",
+                684.41864,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Pembuatan drainase dan trotoar baru, dimensi sama",
+                "Air meluap keluar drainase jika hujan lebat.",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                39,
+                {
+                  "Bytes": "CwAAAHBL/HDJGVlAAGC7G1jI3b9CI9i4vmSIQP///////+//"
+                },
+                0,
+                "RT7 BALAI",
+                780.59314,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi saluran dan Jaringan smpah",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                40,
+                {
+                  "Bytes": "CwAAALy597SJGVlAAKwSGBIx3b+g3SHFwEiJQP///////+//"
+                },
+                0,
+                "RT8 BUSUR",
+                809.094116,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Normalisasi, Jaringan Smpah, Perbesar dimensi",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                41,
+                {
+                  "Bytes": "CwAAAFALPG1wGFlAAOySlVrT3b/Y9+Eg4bqGQP///////+//"
+                },
+                0,
+                "SATE SYUKR",
+                727.359924,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Pembuatan drainase dan trotoar baru, dimensi sama",
+                "Air meluap keluar drainase jika hujan lebat.",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                42,
+                {
+                  "Bytes": "CwAAADhcMrvRGFlAAOzWA3S13b9wRPesq2uHQP///////+//"
+                },
+                0,
+                "SD12 SILBA",
+                749.458801,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Pembuatan drainase dan trotoar baru, dimensi sama",
+                "Tingginya sendimen, banyaknya sampah, air meluap",
+                ""
+              ]
+            }
+          },
+          {
+            "Values": {
+              "Value": [
+                43,
+                {
+                  "Bytes": "CwAAAEC+H4PAGVlAAMhLcqzD3b9SDJBowmWIQP///////+//"
+                },
+                0,
+                "TK25",
+                780.719971,
+                "Padang Panjang Barat",
+                "Terjadi Genangan",
+                "Sumatera Barat",
+                "Padang Panjang",
+                2020,
+                1,
+                "Menunggu lanjutan pembuatan drainase baru",
+                "Sambungan antar drainase lama dan baru",
+                ""
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
